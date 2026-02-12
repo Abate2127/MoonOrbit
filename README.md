@@ -1,0 +1,1 @@
+It is a clean, semantic foundation for a pure CSS solar system animation. It uses a nested div structure to establish a parent-child relationship between the Earth and the Moon, which is the standard way to handle orbital mechanics in web design.
